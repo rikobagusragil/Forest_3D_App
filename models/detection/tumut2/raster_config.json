@@ -1,0 +1,1 @@
+{"res": 0.2, "gridSize": [600, 600, 1000], "raster_layers": ["vertical_density", "canopy_height", "mean_colour1"], "normalisation": "rescale+histeq", "support_window": [1, 1, 1], "doHisteq": [true, true, true]}

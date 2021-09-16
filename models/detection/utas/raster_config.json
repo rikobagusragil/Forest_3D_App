@@ -1,0 +1,1 @@
+{"raster_layers": ["canopy_height", "max_colour1", "max_colour2"], "res": 0.05, "normalisation": "rescale+histeq", "doHisteq": [true, true, true], "gridSize": [600, 600, 1000], "support_window": [1, 1, 1]}

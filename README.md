@@ -1,4 +1,4 @@
-# Forest 3D App: inventory from pointcloud data.
+# Forest 3D App: inventory from pointcloud data. Machintos
 
 ![Alt text](media/drawing1.png?raw=true )
 
